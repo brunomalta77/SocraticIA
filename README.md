@@ -1,4 +1,5 @@
 # SocraticIA
+![SocraticIA Deep Research](logo.jpg)
 
 **SocraticIA is a Markdown-based framework for applying the Socratic method to LLM-driven knowledge discovery.**
 
